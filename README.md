@@ -1,1 +1,1 @@
-# Glaucoma_Dtection
+# Glaucoma_Detection
